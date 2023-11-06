@@ -1,6 +1,5 @@
 <h1 align="center">Welcome To My Github Profile</h1>
 <h3 align="center">IT Enthusiast from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 Hello Chief 👋, I'm Okky Rangga Pratama, you can call me Kyy. </p>
 I'm currently 20 years old. </p>
 
@@ -9,8 +8,6 @@ I'm currently 20 years old. </p>
 - 🌱 I’m currently student at **National Telkom University Surabaya**
 
 - 📫 How to reach me **ikoyozu@gmail.com**
-
-- ⚡ Fun fact **Di setiap kelebihan, pasti ada kembalian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
