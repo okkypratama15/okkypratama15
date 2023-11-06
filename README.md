@@ -1,6 +1,6 @@
 <h1 align="center">Hi Chief👋, I'm Okky Rangga Pratama</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*nCpfU7AD35VLsljEvbVfSw.gif">
+<img align="right" alt="Coding" width="375" src="https://miro.medium.com/v2/resize:fit:828/1*nCpfU7AD35VLsljEvbVfSw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okkypratama15&label=Profile%20views&color=0e75b6&style=flat" alt="okkypratama15" /> </p>
 
