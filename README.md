@@ -1,10 +1,14 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.codeimmersives.com/wp-content/uploads/2021/04/term1.png))]([https://rishavchanda.io](https://www.linkedin.com/in/okky-rangga-pratama-10a11429a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bberb2R4hTjKrgZ4G7tVHwA%3D%3D))
 <h1 align="center">Hi Chief👋, I'm Okky Rangga Pratama</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*nCpfU7AD35VLsljEvbVfSw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okkypratama15&label=Profile%20views&color=0e75b6&style=flat" alt="okkypratama15" /> </p>
 
-- 🌱 I’m currently learning **React js, Bootstrap and Webdev Technology**
+- 🌱 I'm **20 years old**
+
+- 👨‍💻 **Informatics Student** at **Telkom Institute of Technology Surabaya**
+
+- 🔭 I’m currently learning **React js, Bootstrap and Webdev Technology**
 
 - 💬 Ask me about **c, java, html, css and js**
 
